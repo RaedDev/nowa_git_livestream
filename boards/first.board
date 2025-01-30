@@ -29,6 +29,16 @@
             "deps": [
                 "lib/upcoming.dart"
             ]
+        },
+        {
+            "x": 422.0,
+            "y": 302.0,
+            "w": 393.0,
+            "h": 808.0,
+            "widget": "const Empty()",
+            "deps": [
+                "lib/empty.dart"
+            ]
         }
     ]
 }
