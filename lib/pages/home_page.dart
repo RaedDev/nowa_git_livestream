@@ -29,6 +29,17 @@ class HomePage extends StatelessWidget {
                 'Walkthrough git features in nowa 2.0.12!\n- Init repository\n- Connect with github\n- Commit\n- Pushing changes\n- Cloning projects\n- Branches',
                 style: Theme.of(context).textTheme.bodyLarge,
               ),
+            ),
+            Positioned(
+              top: 141.5,
+              left: 416.0,
+              width: 181.0,
+              height: 137.0,
+              child: Container(
+                decoration: BoxDecoration(
+                    color: Color(0xffc4c4c4),
+                    borderRadius: BorderRadius.circular(0.0)),
+              ),
             )
           ],
         ),
