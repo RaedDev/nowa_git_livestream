@@ -1,0 +1,34 @@
+{
+    "canvases": [
+        {
+            "x": 422.0,
+            "y": -190.0,
+            "w": 739.0,
+            "h": 420.0,
+            "widget": "const HomePage()",
+            "deps": [
+                "lib/pages/home_page.dart"
+            ]
+        },
+        {
+            "x": 2047.0,
+            "y": -190.0,
+            "w": 796.0,
+            "h": 420.0,
+            "widget": "const Community()",
+            "deps": [
+                "lib/community.dart"
+            ]
+        },
+        {
+            "x": 1209.0,
+            "y": -190.0,
+            "w": 772.0,
+            "h": 420.0,
+            "widget": "const Upcoming()",
+            "deps": [
+                "lib/upcoming.dart"
+            ]
+        }
+    ]
+}

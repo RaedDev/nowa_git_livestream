@@ -1,0 +1,8 @@
+{
+    "version": "2.0.12",
+    "app": {
+        "name": "nowa_git_livestream",
+        "package_name": "com.example.nowa_git_livestream"
+    },
+    "main": {}
+}
